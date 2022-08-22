@@ -52,7 +52,7 @@ __pycache__/
 
 # pyenv #
 #########
-.python-version
+venv
 
 # Django #
 #################
@@ -75,3 +75,7 @@ bower_components/
 .grunt/
 src/vendor/
 dist/
+
+# IDEs #
+########
+.idea

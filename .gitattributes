@@ -6,3 +6,6 @@
 *.json filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
 *.geojson_old filter=lfs diff=lfs merge=lfs -text
+*.nc4 filter=lfs diff=lfs merge=lfs -text
+*.nc filter=lfs diff=lfs merge=lfs -text
+
